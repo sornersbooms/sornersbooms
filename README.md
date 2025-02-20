@@ -21,8 +21,6 @@
   <img alt="Rollup" src="https://img.shields.io/badge/-Rollup-EC4A3F?style=flat-square&logo=rollup.js&logoColor=white" />
   <img alt="d3js" src="https://img.shields.io/badge/-D3.js-F9A03C?style=flat-square&logo=d3.js&logoColor=white" />
   <img alt="Prettier" src="https://img.shields.io/badge/-Prettier-F7B93E?style=flat-square&logo=prettier&logoColor=white" />
-  <img alt="MongoDB" src="https://img.shields.io/badge/-MongoDB-13aa52?style=flat-square&logo=mongodb&logoColor=white" />
-  <img alt="Nodejs" src="https://img.shields.io/badge/-Nodejs-43853d?style=flat-square&logo=Node.js&logoColor=white" />
 </p>
 <p align="center">
   <a href="https://www.mongodb.com/" target="_blank">
@@ -56,3 +54,31 @@
 - 🚀 **Node.js**: Entorno de ejecución para JavaScript en el servidor.
 
 🚀 **Con MERN, construyes aplicaciones modernas, rápidas y eficientes!** 💻🔥
+
+## 🎬 Últimos Videos de YouTube
+
+### 🎥 Carrusel Superior
+<p align="center">
+  <a href="https://www.youtube.com/watch?v=VIDEO_ID_1" target="_blank">
+    <img src="https://img.youtube.com/vi/VIDEO_ID_1/0.jpg" width="200" alt="Video 1"/>
+  </a>
+  <a href="https://www.youtube.com/watch?v=VIDEO_ID_2" target="_blank">
+    <img src="https://img.youtube.com/vi/VIDEO_ID_2/0.jpg" width="200" alt="Video 2"/>
+  </a>
+  <a href="https://www.youtube.com/watch?v=VIDEO_ID_3" target="_blank">
+    <img src="https://img.youtube.com/vi/VIDEO_ID_3/0.jpg" width="200" alt="Video 3"/>
+  </a>
+</p>
+
+### 🎥 Carrusel Inferior
+<p align="center">
+  <a href="https://www.youtube.com/watch?v=VIDEO_ID_4" target="_blank">
+    <img src="https://img.youtube.com/vi/VIDEO_ID_4/0.jpg" width="200" alt="Video 4"/>
+  </a>
+  <a href="https://www.youtube.com/watch?v=VIDEO_ID_5" target="_blank">
+    <img src="https://img.youtube.com/vi/VIDEO_ID_5/0.jpg" width="200" alt="Video 5"/>
+  </a>
+  <a href="https://www.youtube.com/watch?v=VIDEO_ID_6" target="_blank">
+    <img src="https://img.youtube.com/vi/VIDEO_ID_6/0.jpg" width="200" alt="Video 6"/>
+  </a>
+</p>
