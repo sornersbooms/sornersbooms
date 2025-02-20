@@ -36,7 +36,7 @@
     <img src="https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white" alt="Node.js Badge"/>
   </a>
 </p>
-
+<center>
 ##🌟 The power of the MERN Stack in action!
 
 <p align="center">
@@ -56,7 +56,7 @@
 🚀 Node.js: Runtime environment for JavaScript on the server.
 
 🚀 With MERN, you build modern, fast, and efficient applications! 💻🔥
-
+</center>
 ##🎬 Latest YouTube Videos
 <div class="carousel">
   <a href="https://www.youtube.com/watch?v=eOJr5wnxZBk" target="_blank">
