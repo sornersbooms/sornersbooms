@@ -1,6 +1,5 @@
 ![aaaaastack](https://github.com/user-attachments/assets/d4748cbd-a836-4772-a2c0-ab7a959584c3)
 
-![abc](https://github.com/user-attachments/assets/bdbd8f92-54b5-482e-94ce-91dbe7700fd9)
 
 
 <h1><img src="https://emojis.slackmojis.com/emojis/images/1531849430/4246/blob-sunglasses.gif?1531849430" width="30"/> Hey! Nice to see you.</h1>
