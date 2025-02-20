@@ -37,7 +37,7 @@
   </a>
 </p>
 
-🌟 The power of the MERN Stack in action!
+##🌟 The power of the MERN Stack in action!
 
 <p align="center">
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mongodb/mongodb-original-wordmark.svg" alt="MongoDB" width="120" height="120"/>
@@ -46,7 +46,7 @@
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original-wordmark.svg" alt="Node.js" width="120" height="120"/>
 </p>
 
-⚡ About the MERN Stack
+##⚡ About the MERN Stack
 🔥 MongoDB: Highly scalable and flexible NoSQL database.
 
 ⚡ Express.js: Minimalist and fast backend framework for Node.js.
@@ -57,7 +57,7 @@
 
 🚀 With MERN, you build modern, fast, and efficient applications! 💻🔥
 
-🎬 Latest YouTube Videos
+##🎬 Latest YouTube Videos
 <div class="carousel">
   <a href="https://www.youtube.com/watch?v=eOJr5wnxZBk" target="_blank">
     <img src="https://img.youtube.com/vi/eOJr5wnxZBk/0.jpg" width="200" alt="Video 1"/>
