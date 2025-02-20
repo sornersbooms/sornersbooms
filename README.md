@@ -37,7 +37,7 @@
   </a>
 </p>
 
-## 🌟 ¡El poder del MERN Stack en acción!
+🌟 The power of the MERN Stack in action!
 
 <p align="center">
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mongodb/mongodb-original-wordmark.svg" alt="MongoDB" width="120" height="120"/>
@@ -46,18 +46,18 @@
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original-wordmark.svg" alt="Node.js" width="120" height="120"/>
 </p>
 
-## ⚡ Sobre el Stack MERN
+⚡ About the MERN Stack
+🔥 MongoDB: Highly scalable and flexible NoSQL database.
 
-- 🔥 **MongoDB**: Base de datos NoSQL altamente escalable y flexible.
-- ⚡ **Express.js**: Framework backend minimalista y rápido para Node.js.
-- ⚛️ **React**: Librería para construir interfaces de usuario interactivas.
-- 🚀 **Node.js**: Entorno de ejecución para JavaScript en el servidor.
+⚡ Express.js: Minimalist and fast backend framework for Node.js.
 
-🚀 **Con MERN, construyes aplicaciones modernas, rápidas y eficientes!** 💻🔥
+⚛️ React: Library for building interactive user interfaces.
 
-## 🎬 Últimos Videos de YouTube
+🚀 Node.js: Runtime environment for JavaScript on the server.
 
-### 🎥 Carrusel Superior
+🚀 With MERN, you build modern, fast, and efficient applications! 💻🔥
+
+🎬 Latest YouTube Videos
 <div class="carousel">
   <a href="https://www.youtube.com/watch?v=eOJr5wnxZBk" target="_blank">
     <img src="https://img.youtube.com/vi/eOJr5wnxZBk/0.jpg" width="200" alt="Video 1"/>
@@ -69,8 +69,6 @@
     <img src="https://img.youtube.com/vi/_nw-GDB-Rns/0.jpg" width="200" alt="Video 3"/>
   </a>
 </div>
-
-### 🎥 Carrusel Inferior
 <div class="carousel">
   <a href="https://www.youtube.com/watch?v=iF3fFQQesBA" target="_blank">
     <img src="https://img.youtube.com/vi/iF3fFQQesBA/0.jpg" width="200" alt="Video 4"/>
