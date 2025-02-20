@@ -1,4 +1,5 @@
-![fondo](https://github.com/user-attachments/assets/964bf837-106a-4055-8c75-9a182828ca06)
+![abc](https://github.com/user-attachments/assets/bdbd8f92-54b5-482e-94ce-91dbe7700fd9)
+
 
 <h1><img src="https://emojis.slackmojis.com/emojis/images/1531849430/4246/blob-sunglasses.gif?1531849430" width="30"/> Hey! Nice to see you.</h1>
 
