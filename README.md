@@ -57,43 +57,28 @@
 
 ## 🎬 Últimos Videos de YouTube
 
-## 🎬 Últimos Videos de YouTube
-
-<style>
-  .carousel {
-    display: flex;
-    overflow: hidden;
-    white-space: nowrap;
-    animation: scroll 15s linear infinite;
-  }
-  @keyframes scroll {
-    from { transform: translateX(100%); }
-    to { transform: translateX(-100%); }
-  }
-</style>
-
 ### 🎥 Carrusel Superior
 <div class="carousel">
-  <a href="https://www.youtube.com/watch?v=dQw4w9WgXcQ" target="_blank">
-    <img src="https://img.youtube.com/vi/dQw4w9WgXcQ/0.jpg" width="200" alt="Video 1"/>
+  <a href="https://www.youtube.com/watch?v=eOJr5wnxZBk" target="_blank">
+    <img src="https://img.youtube.com/vi/eOJr5wnxZBk/0.jpg" width="200" alt="Video 1"/>
   </a>
-  <a href="https://www.youtube.com/watch?v=3JZ_D3ELwOQ" target="_blank">
-    <img src="https://img.youtube.com/vi/3JZ_D3ELwOQ/0.jpg" width="200" alt="Video 2"/>
+  <a href="https://www.youtube.com/watch?v=m3Pcezsd0Yc" target="_blank">
+    <img src="https://img.youtube.com/vi/m3Pcezsd0Yc/0.jpg" width="200" alt="Video 2"/>
   </a>
-  <a href="https://www.youtube.com/watch?v=tgbNymZ7vqY" target="_blank">
-    <img src="https://img.youtube.com/vi/tgbNymZ7vqY/0.jpg" width="200" alt="Video 3"/>
+  <a href="https://www.youtube.com/watch?v=_nw-GDB-Rns" target="_blank">
+    <img src="https://img.youtube.com/vi/_nw-GDB-Rns/0.jpg" width="200" alt="Video 3"/>
   </a>
 </div>
 
 ### 🎥 Carrusel Inferior
 <div class="carousel">
-  <a href="https://www.youtube.com/watch?v=ysz5S6PUM-U" target="_blank">
-    <img src="https://img.youtube.com/vi/ysz5S6PUM-U/0.jpg" width="200" alt="Video 4"/>
+  <a href="https://www.youtube.com/watch?v=iF3fFQQesBA" target="_blank">
+    <img src="https://img.youtube.com/vi/iF3fFQQesBA/0.jpg" width="200" alt="Video 4"/>
   </a>
-  <a href="https://www.youtube.com/watch?v=ScMzIvxBSi4" target="_blank">
-    <img src="https://img.youtube.com/vi/ScMzIvxBSi4/0.jpg" width="200" alt="Video 5"/>
+  <a href="https://www.youtube.com/watch?v=0v_DlMl1_1g" target="_blank">
+    <img src="https://img.youtube.com/vi/0v_DlMl1_1g/0.jpg" width="200" alt="Video 5"/>
   </a>
-  <a href="https://www.youtube.com/watch?v=9bZkp7q19f0" target="_blank">
-    <img src="https://img.youtube.com/vi/9bZkp7q19f0/0.jpg" width="200" alt="Video 6"/>
+  <a href="https://www.youtube.com/watch?v=IHQW_Rm_b4Y" target="_blank">
+    <img src="https://img.youtube.com/vi/IHQW_Rm_b4Y/0.jpg" width="200" alt="Video 6"/>
   </a>
 </div>
