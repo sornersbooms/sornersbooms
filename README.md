@@ -2,6 +2,7 @@
 
 
 
+
 <h1><img src="https://emojis.slackmojis.com/emojis/images/1531849430/4246/blob-sunglasses.gif?1531849430" width="30"/> Hey! Nice to see you.</h1>
 
 
@@ -61,6 +62,11 @@
 
 🚀 With MERN, you build modern, fast, and efficient applications! 💻🔥
 </center>
+
+
+## 📄 Descarga mi CV
+
+[![CV](https://img.shields.io/badge/📄_Descargar_Mi_CV-FF5733?style=for-the-badge&logo=adobeacrobatreader&logoColor=white)](https://github.com/user-attachments/files/18920908/CV.Yeferson.Julian.Mosquera.Orozco.pdf)
 
 ## 📊 GitHub Stats
 
