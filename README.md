@@ -66,7 +66,8 @@
 
 ## 📄 Descarga mi CV
 
-[![CV](https://img.shields.io/badge/📄_Descargar_Mi_CV-FF5733?style=for-the-badge&logo=adobeacrobatreader&logoColor=white)](https://github.com/user-attachments/files/18920908/CV.Yeferson.Julian.Mosquera.Orozco.pdf)
+[![CV](https://img.shields.io/badge/📄_Descargar_Mi_CV-FF5733?style=for-the-badge&logo=adobeacrobatreader&logoColor=white)]((https://github.com/user-attachments/files/18929040/CV.Yeferson.Julian.Mosquera.Orozco.pdf)
+)
 
 ## 📊 GitHub Stats
 
