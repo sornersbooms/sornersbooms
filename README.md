@@ -66,8 +66,8 @@
 
 ## 📄 Descarga mi CV
 
-[![CV](https://img.shields.io/badge/📄_Descargar_Mi_CV-FF5733?style=for-the-badge&logo=adobeacrobatreader&logoColor=white)]((https://github.com/user-attachments/files/18929040/CV.Yeferson.Julian.Mosquera.Orozco.pdf)
-)
+[![CV](https://img.shields.io/badge/📄_Descargar_Mi_CV-FF5733?style=for-the-badge&logo=adobeacrobatreader&logoColor=white)](https://github.com/user-attachments/files/18929040/CV.Yeferson.Julian.Mosquera.Orozco.pdf)
+
 
 ## 📊 GitHub Stats
 
@@ -82,6 +82,10 @@
   <a href="https://linkedin.com/in/yeferson-julian-mosquera-orozco" target="_blank">
     <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn Badge"/>
   </a>
+  <a href="https://wa.me/573176116145" target="_blank">
+    <img src="https://img.shields.io/badge/WhatsApp-25D366?style=for-the-badge&logo=whatsapp&logoColor=white" alt="WhatsApp Badge"/>
+</a>
+
   <a href="https://twitter.com/ProgramadorFiel" target="_blank">
     <img src="https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white" alt="Twitter Badge"/>
   </a>
